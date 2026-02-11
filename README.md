@@ -1,4 +1,4 @@
-# 📘 CLASS WORK D1 — PEP DSA 2026
+# 📘 WORK — PEP DSA 2026
 
 ## 📖 Overview
 
